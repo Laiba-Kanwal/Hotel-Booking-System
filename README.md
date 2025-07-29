@@ -11,11 +11,7 @@ Tools: Postman (for API testing), Git
 
  How to Run the Project:
 
-1. Download or Clone the Repository
-
-   git clone https://github.com/Laiba-Kanwal/hotel_mern-main.git
- 
-
+1. Download or Clone the Repository.
 2. Backend Setup:
    cd hotel_mern-main/backend
    npm install
