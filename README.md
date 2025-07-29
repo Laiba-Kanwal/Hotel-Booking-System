@@ -11,7 +11,7 @@ Tools: Postman (for API testing), Git
 
  How to Run the Project:
 
-1. Download or Clone the Repository.
+1. Download zip file and extract it.
 2. Backend Setup:
    cd hotel_mern-main/backend
    npm install
@@ -22,12 +22,8 @@ Tools: Postman (for API testing), Git
    cd ../frontend
    npm install
    npm start
-   ```
 
----
- Folder Structure
-
-```
+Folder Structure:
 hotel_mern-main/
 ├── backend/
 │   ├── models/
@@ -39,9 +35,7 @@ hotel_mern-main/
 │   ├── public/
 │   └── ...
 └── README.md
-```
 
----
 
 Author
 
