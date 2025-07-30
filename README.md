@@ -4,7 +4,7 @@ This project is a web-based Hotel Management System built using the MERN stack (
 
 ## Usage
 Simply click on the demo link provided.
-If you wish to download the code and use it, you must first download zip file.
+If you wish to download the code and use it, you must first download or clone the repo.
 If you want to use your own MongoDb Atlas server, you must configure the .env file with your MongoDB database and then run ```npm install ``` to install the dependencies and then start the server with ```npm start ```
 
 If you just want to use the client then simply go to the client folder, run ```npm install ``` to install the dependencies and then start the client with ```npm start ```
@@ -18,6 +18,8 @@ If you just want to use the client then simply go to the client folder, run ```n
 * Room and booking data is stored within a MongoDB databse
 * Website is fully responsive and looks great across multiple platforms
 
+## Screenshot
+https://github.com/Laiba-Kanwal/Hotel-Booking-System/blob/main/screenshot.png
 
 ## Technologies
 The app was created with the following technologies
